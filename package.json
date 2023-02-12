@@ -20,7 +20,7 @@
     "@11ty/eleventy": "latest",
     "@jamshop/eleventy-filter-dump": "latest",
     "@jamshop/eleventy-plugin-lodash": "latest",
-    "ava": "^3.12.1"
+    "ava": "^5.2.0"
   },
   "ava": {
     "files": [
